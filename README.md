@@ -39,8 +39,8 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nebeux&show_icons=true&theme=transparent&title_color=da3c72&text_color=b89ec4&icon_color=43bbc2&border_color=4b2981&border_radius=10" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nebeux&layout=compact&theme=transparent&title_color=da3c72&text_color=b89ec4&border_color=4b2981&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krishsakthivel&show_icons=true&theme=transparent&title_color=da3c72&text_color=b89ec4&icon_color=43bbc2&border_color=4b2981&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishsakthivel&layout=compact&theme=transparent&title_color=da3c72&text_color=b89ec4&border_color=4b2981&border_radius=10" width="48%"/>
 
 <br/>
 <br/>
@@ -63,6 +63,6 @@ nebeux = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github/nebeux-0a0612?style=for-the-badge&logo=github&logoColor=f8d3e3)](https://github.com/nebeux)
+[![GitHub](https://img.shields.io/badge/github/krishsakthivel-0a0612?style=for-the-badge&logo=github&logoColor=f8d3e3)](https://github.com/krishsakthivel)
 
 </div>
