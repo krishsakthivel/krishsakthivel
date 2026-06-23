@@ -1,7 +1,4 @@
-<div align="center">
-
-<img src="./nebeux.png" width="100%" style='border-radius:10px' alt="nebeux banner"/>
-</div>
+# Hi! I'm Krish.
 
 <br/>
 
