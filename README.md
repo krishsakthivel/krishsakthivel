@@ -7,17 +7,13 @@
 
 
 
-![Python](https://img.shields.io/badge/Python-0a0612?style=for-the-badge&logo=python&logoColor=f4dca5)
-![Flask](https://img.shields.io/badge/Flask-0a0612?style=for-the-badge&logo=flask&logoColor=da3c72)
-![React](https://img.shields.io/badge/React-0a0612?style=for-the-badge&logo=react&logoColor=43bbc2)<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0612?style=for-the-badge&logo=javascript&logoColor=f4dca5)
-![SQLite](https://img.shields.io/badge/SQLite-0a0612?style=for-the-badge&logo=sqlite&logoColor=c9a8e8)
-![Supabase](https://img.shields.io/badge/Supabase-0a0612?style=for-the-badge&logo=supabase&logoColor=43bbc2)<br/>
-![React Native](https://img.shields.io/badge/React_Native-0a0612?style=for-the-badge&logo=react&logoColor=b89ec4)
-![HTML5](https://img.shields.io/badge/HTML5-0a0612?style=for-the-badge&logo=html5&logoColor=da3c72)
-
-<sub>also: SQLAlchemy · SQL · CapCut · Canva </sub>
-
+| Layer | Technology |
+|---|---|
+| Backend | Node.js, Next.js, Express.js, Flask |
+| Frontend | HTML, CSS, JavaScript, React, Next.js, Leaflet, Lucide React, TypeScript, Tailwind CSS |
+| General Languages | Python, C, JavaScript, TypeScript, Bash, C++ |
+| Tools | Git, GitHub, VS Code, Tiled, Canva, CapCut, Adobe After Effects |
+| Deployment | GitHub Pages, Render, Vercel |
 </div>
 
 
