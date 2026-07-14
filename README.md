@@ -16,7 +16,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-0a0612?style=for-the-badge&logo=react&logoColor=b89ec4)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0612?style=for-the-badge&logo=html5&logoColor=da3c72)
 
-<sub>also: SQLAlchemy · SQL · CapCut · Canva · always adding more ✦</sub>
+<sub>also: SQLAlchemy · SQL · CapCut · Canva </sub>
 
 </div>
 
@@ -24,14 +24,18 @@
 <br/>
 <br/>
 
-## 🏆 Hackathons & Achievements
+## 🏆 Hackathon Achievements
+<div align="left">
 
 ```
-✦ 2nd Place — SMathHacks 
-✦ Most Innovative — UNCC 4/19 HS Hackathon 
-✦ 4 hackathons competed & shipped 
-✦ Builds everything from scratch 
+✦ 1st Place - West Hacks '26 for Rake
+✦ 1st Place in Cybersecurity - GreenCode '26 for Safehouse
+✦ 2nd Place in AI and Machine Learning - SMathHacks '26 for AI Carbon Sink Predictor (ACSP)
+✦ 3rd Place - WeatherWise Hack for StrikeRisk
+✦ Most Innovative/Technical Award - UNCC HS Hackathon '26 for Radon Radar NC (RRNC)
+✦ 5+ hackathons competed in. (Competed with over 1000+ people)
 ```
+</div>
 
 <br/><br/>
 
@@ -39,21 +43,30 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishsakthivel&show_icons=true&theme=transparent&title_color=da3c72&text_color=b89ec4&icon_color=43bbc2&border_color=4b2981&border_radius=10" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishsakthivel&layout=compact&theme=transparent&title_color=da3c72&text_color=b89ec4&border_color=4b2981&border_radius=10" width="48%"/>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=krishsakthivel&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=krishsakthivel&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krishsakthivel&layout=compact&theme=tokyonight" />
+</p>
+</div>
 <br/>
 <br/>
 
 ## ⚡ About Me
 
 ```python
-nebeux = {
+krish = {
     "status":     "coder & highschooler",
-    "watching":   "none rn",
+    "watching":   "blue lock",
     "exploring":  ["advanced Python", "React projects", "Flask APIs"],
     "arch_enemy": "TypeError",
-    "philosophy": "learning by creating > everything else",
 }
 ```
 
@@ -63,6 +76,7 @@ nebeux = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github/krishsakthivel-0a0612?style=for-the-badge&logo=github&logoColor=f8d3e3)](https://github.com/krishsakthivel)
+GitHub (well you're already here :D): @krishsakthivel <br/>
+Devpost: @krishsakthivel
 
 </div>
