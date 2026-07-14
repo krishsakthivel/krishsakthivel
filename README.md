@@ -1,5 +1,4 @@
-# Hi! I'm Krish.
-
+<img width="6912" height="3456" alt="newbanner" src="https://github.com/user-attachments/assets/9d120493-20fe-403b-a26c-d6ec311349f7" />
 <br/>
 
 ## 🧰 Tech Stack
@@ -20,6 +19,7 @@
 <sub>also: SQLAlchemy · SQL · CapCut · Canva · always adding more ✦</sub>
 
 </div>
+
 
 <br/>
 <br/>
