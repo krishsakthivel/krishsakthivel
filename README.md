@@ -14,6 +14,7 @@
 | General Languages | Python, C, JavaScript, TypeScript, Bash, C++ |
 | Tools | Git, GitHub, VS Code, Tiled, Canva, CapCut, Adobe After Effects |
 | Deployment | GitHub Pages, Render, Vercel |
+| VEX | PROS, LemLib, VEXcode, and just a tiny bit of vexide |
 </div>
 
 
