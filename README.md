@@ -10,8 +10,8 @@
 | Layer | Technology |
 |---|---|
 | Backend | Node.js, Next.js, Express.js, Flask |
-| Frontend | HTML, CSS, JavaScript, React, Next.js, Leaflet, Lucide React, TypeScript, Tailwind CSS, React Native, Bootstrap CSS |
-| General Languages | Python, C, JavaScript, TypeScript, Bash, C++, R|
+| Frontend | HTML, CSS, SCSS, JavaScript, React, Next.js, Leaflet, Lucide React, TypeScript, Tailwind CSS, React Native, Bootstrap CSS |
+| Programming Languages | Python, C, JavaScript, TypeScript, Bash, C++, R, SQL |
 | Tools | Git, GitHub, VS Code, Tiled, Canva, CapCut, Adobe After Effects |
 | Deployment | GitHub Pages, Render, Vercel |
 | VEX | PROS, LemLib, VEXcode, and just a tiny bit of vexide |
