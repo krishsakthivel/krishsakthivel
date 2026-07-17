@@ -1,4 +1,5 @@
-<img width="6912" height="3456" alt="newbanner" src="https://github.com/user-attachments/assets/9d120493-20fe-403b-a26c-d6ec311349f7" />
+<img width="1036" height="518" alt="banner" src="https://github.com/user-attachments/assets/e167ecb1-b7b6-4447-b53c-c8d027d85529" />
+
 <br/>
 
 ## 🧰 Tech Stack
