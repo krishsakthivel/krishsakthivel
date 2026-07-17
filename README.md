@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=krishsakthivel&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=krishsakthivel&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krishsakthivel&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishsakthivel&layout=compact&theme=tokyonight" />
 </p>
 </div>
 <br/>
