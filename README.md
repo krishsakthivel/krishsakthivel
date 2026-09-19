@@ -1,4 +1,4 @@
-<img width="1036" height="518" alt="banner" src="https://github.com/user-attachments/assets/e167ecb1-b7b6-4447-b53c-c8d027d85529" />
+## hey, i'm krish :)
 
 <br/>
 
